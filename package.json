@@ -1,17 +1,14 @@
 {
-  "name": "halo-admin",
-  "version": "1.4.8",
+  "name": "cc-doc-web",
+  "version": "1.0.0",
   "author": "halo-dev",
   "description": "Halo admin client.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/halo-dev/halo-admin.git"
+    "url": "git+https://github.com/zhangboxyz/cc-doc-web.git"
   },
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/halo-dev/halo-admin/issues"
-  },
-  "homepage": "https://github.com/halo-dev/halo-admin#readme",
+  "homepage": "https://github.com/zhangboxyz/cc-doc-web#readme",
   "scripts": {
     "start": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
